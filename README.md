@@ -1,0 +1,1 @@
+# omarchy-solarized-osaka-theme
