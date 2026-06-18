@@ -52,17 +52,17 @@ Or select it visually via **Style → Theme** in the Omarchy menu (`Super + Alt 
     <td align="center">
       <img src="./backgrounds/1-solarized-code.png" alt="Solarized Code" width="400">
       <br>
-      <sub>1-solarized-code.png</sub>
+      <strong>Solarized Code</strong>
     </td>
     <td align="center">
-      <img src="./backgrounds/2-blue-hour-village.png" alt="Blue Hour Village" width="400">
+      <img src="./backgrounds/2-blue-hour-village.png" alt="Blue Hour Village" width="420">
       <br>
-      <sub>2-blue-hour-village.png</sub>
+      <strong>Blue Hour Village</strong>
     </td>
     <td align="center">
       <img src="./backgrounds/omarchy.png" alt="Omarchy" width="400">
       <br>
-      <sub>omarchy.png</sub>
+      <strong>Omarchy</strong>
     </td>
   </tr>
 </table>
