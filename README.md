@@ -38,14 +38,11 @@ Or select it visually via **Style → Theme** in the Omarchy menu (`Super + Alt 
 
 ## 👀 Preview
 
-<p>
-  <strong>Desktop</strong><br>
-  <img src="./preview.png" alt="Solarized Osaka desktop preview">
-</p>
+### Desktop
 
-<p>
-  <strong>Backgrounds</strong>
-</p>
+  <img src="./preview.png" alt="Solarized Osaka desktop preview">
+
+### Backgrounds
 
 <table>
   <tr>
